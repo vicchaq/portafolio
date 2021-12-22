@@ -20,15 +20,11 @@ const Footer = () => {
                     <a href="https://linkedin.com" target="_blank" rel="noreferrer">
                         <i className="fab fa-linkedin linkedin"></i>
                     </a>
-                    {/* <a href="https://instagram.com" target="_blank" rel="noreferrer">
-                        <i className="fab fa-instagram instagram"></i>
-                    </a> */}
                     <a href="https://facebook.com" target="_blank" rel="noreferrer">
                         <i className="fab fa-facebook facebook"></i>
                     </a>
-                    <a href="https://api.whatsapp.com/send?phone=5492617173515" target="_blank" rel="noreferrer">
-                    <img src="whas.jpg" alt="whas.jpg"></img>
-                        <i className="fab fa-whatsApp whatsApp"></i>
+                    <a href="https://instagram.com" target="_blank" rel="noreferrer">
+                        <i className="fab fa-instagram instagram"></i>
                     </a>
                 </div>
             </div>
