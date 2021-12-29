@@ -33,7 +33,7 @@
     }
     
     .slide-desc {
-        background-color: black;
+        background-color: white;
         position: absolute;
         bottom: 0;
         right: 0;
@@ -43,7 +43,7 @@
         opacity: 0.8;
     }
     
-    .slide-desc > span {
+    .slide-desc {
         color: white;
         display: block;
         font-size: 22px;
