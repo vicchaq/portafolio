@@ -9,10 +9,10 @@ const About = () => {
             <div className="about-desc">
                 <h3>Dejame decirte algo :</h3>
                 <p>
-                    Mis habilidades técnicas estan orientadas a técnologias como:Node.js,
-                    SQL,Javascript,React.js,Redux,HTML,CSS.
-                    Entre mis habilidades blandas encontrarás:Proactividad,iniciativa,
-                    sociabilidad,colaboración,curiosidad y muchas ganas de aprender.
+                    Mis habilidades técnicas estan orientadas a técnologias como: Node.js,
+                    SQL, Javascript, React.js, Redux, HTML, CSS.
+                    Entre mis habilidades blandas encontrarás: Proactividad,iniciativa,
+                    sociabilidad, colaboración, curiosidad y muchas ganas de aprender.
                 </p>
             </div>
             <div className="about-img">
