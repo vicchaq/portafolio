@@ -17,10 +17,10 @@ const Footer = () => {
                 <div className="design-by">
                 </div>
                 <div className="sns-links">
-                    <a href="https://linkedin.com" target="_blank" rel="noreferrer">
+                    <a href="https://linkedin.com" target="_blank" rel="noreferrer noopener">
                         <i className="fab fa-linkedin linkedin"></i>
                     </a>
-                    <a href="https://facebook.com" target="_blank" rel="noreferrer">
+                    <a href="https://facebook.com" target="_blank" rel="noreferrer noopener">
                         <i className="fab fa-facebook facebook"></i>
                     </a>
                     <a href="https://instagram.com" target="_blank" rel="noreferrer">
